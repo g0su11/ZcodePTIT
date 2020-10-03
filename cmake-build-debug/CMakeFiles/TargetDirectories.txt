@@ -1,0 +1,3 @@
+C:/Users/Laptop88/CLionProjects/ZcodePTIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Laptop88/CLionProjects/ZcodePTIT/cmake-build-debug/CMakeFiles/ZcodePTIT.dir
+C:/Users/Laptop88/CLionProjects/ZcodePTIT/cmake-build-debug/CMakeFiles/edit_cache.dir

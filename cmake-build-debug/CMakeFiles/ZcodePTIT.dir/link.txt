@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ZcodePTIT.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\ZcodePTIT.dir/objects.a @CMakeFiles\ZcodePTIT.dir\objects1.rsp
+C:\TDM-GCC-64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ZcodePTIT.dir/objects.a -Wl,--no-whole-archive  -o ZcodePTIT.exe -Wl,--out-implib,libZcodePTIT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ZcodePTIT.dir\linklibs.rsp
